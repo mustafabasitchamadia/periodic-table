@@ -1,0 +1,52 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.blue{
+    color: blue;
+    background-color: rgb(214, 245, 255);
+    border: 1px solid rgb(214, 245, 255);
+}
+.empty{
+    border: 1px solid rgb(255, 255, 255);
+}
+.red{
+    color: rgb(221, 34, 34);
+    background-color: #ffd3da;
+    border: 1px solid #ffd3da;
+}
+.palecyan{
+      color: rgb(19, 98, 124);
+      background-color: #b7fffa;
+      border: 1px solid #b7fffa;  
+}
+.purple{
+    color: rgb(87, 23, 136);
+    background-color: rgb(223, 208, 233)  ;
+    border: 1px solid rgb(223, 208, 233);
+}
+.brown{
+    color: rgb(164, 100, 45);
+    background-color: rgb(244, 244, 227);
+    border: 1px solid rgb(244, 244, 227);
+}
+.green{
+    color: rgb(1, 49, 1);
+    background-color: rgb(203, 227, 203);
+   border: 1px solid  rgb(203, 227, 203);   
+}
+.grey{
+    color: rgb(39, 31, 31);
+    background-color: rgb(212, 211, 211);
+    border: 1px solid  rgb(212, 211, 211);
+}
+.orange{
+    color: rgb(202, 80, 19);
+    background-color: rgb(253, 219, 210);
+    border: 1px solid rgb(253, 219, 210);
+}
+.darkblue{
+    color: rgb(6, 71, 118);
+    background-color: rgb(203, 234, 255);
+    border: 1px solid rgb(203, 234, 255);
+}
