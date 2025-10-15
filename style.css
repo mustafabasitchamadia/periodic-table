@@ -7,9 +7,7 @@ body{
     background-color: rgb(214, 245, 255);
     border: 1px solid rgb(214, 245, 255);
 }
-.empty{
-    border: 1px solid rgb(255, 255, 255);
-}
+
 .red{
     color: rgb(221, 34, 34);
     background-color: #ffd3da;
@@ -50,3 +48,12 @@ body{
     background-color: rgb(203, 234, 255);
     border: 1px solid rgb(203, 234, 255);
 }
+.heading{
+    text-align: center;
+    text-decoration: underline;
+    color: red;
+    font-style: italic ;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
